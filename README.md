@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @vitorsousa
+- 👀 I’m interested in em aprender cada dia mais sobre tecnologia...
+- 🌱 I’m currently learning HTML, CSS e Javascripty ...
+- 📫 How to reach me instagram vitor_sousa05...
+
+<!---
+vitorsousa99/vitorsousa99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
